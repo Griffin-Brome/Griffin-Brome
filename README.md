@@ -1,7 +1,7 @@
 # Hi there, I'm Griffin 👋
 
 ## I'm a Computer Science New Grad from BC, Canada
-- 🌱 I’m currently learning: Full-Stack development with Flask, SQLAlchemy & React
+- 🌱 I’m currently learning: Full-Stack development with Flask & React
 - 😄 Pronouns: He/Him/His
 
 ## Find me on the Web
