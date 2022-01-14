@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science New Grad from BC, Canada
 - 🌱 I’m currently learning: 
-  - API development with Flask 
+  - API development with Flask & SQLAlchemy
 - 😄 Pronouns: He/Him/His
 
 ## Find me on the Web
