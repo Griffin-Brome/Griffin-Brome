@@ -1,7 +1,6 @@
 # Hi there, I'm Griffin 👋
 
 ## I'm a Computer Science New Grad from BC, Canada
-- 🌱 I’m currently learning: Full-Stack development with Flask & React
 - 😄 Pronouns: He/Him/His
 
 ## Find me on the Web
@@ -18,6 +17,7 @@
 **Griffin-Brome/Griffin-Brome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- 🌱 I’m currently learning: Full-Stack development with Flask & React
 
 
 -->
