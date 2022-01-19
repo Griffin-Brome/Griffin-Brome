@@ -2,6 +2,8 @@
 
 ## I'm a Computer Science New Grad from BC, Canada
 - 😄 Pronouns: He/Him/His
+- 🌱 I’m currently learning: Go, Docker, React
+
 
 ## Find me on the Web
 - [Website](http://www.griffinbrome.com/)
@@ -17,7 +19,6 @@
 **Griffin-Brome/Griffin-Brome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning: Full-Stack development with Flask & React
 
 
 -->
