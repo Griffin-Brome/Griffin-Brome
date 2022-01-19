@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science New Grad from BC, Canada
 - 😄 Pronouns: He/Him/His
-- 🌱 I’m currently learning: Go, Docker, React
+- 🌱 I’m currently learning: 🐻 Go, 🐳 Docker, ⚛️ React
 
 
 ## Find me on the Web
