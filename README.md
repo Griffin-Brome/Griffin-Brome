@@ -1,8 +1,3 @@
-# Hi there, I'm Griffin 👋
-
-## I'm a Software Engineer in the San Francisco Bay Area
-- 😄 Pronouns: He/Him/His  
-
 ## Find me on the Web
 - [Website](http://www.griffinbrome.com/)
 - [LinkedIn](https://www.linkedin.com/in/griffin-brome)
