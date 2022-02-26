@@ -1,9 +1,7 @@
 # Hi there, I'm Griffin 👋
 
-## I'm a Computer Science New Grad from BC, Canada
-- 😄 Pronouns: He/Him/His
-- 🌱 I’m currently learning: 🐻 Go, 🐳 Docker, K8s
-
+## I'm a Software Engineer in the San Francisco Bay Area
+- 😄 Pronouns: He/Him/His  
 
 ## Find me on the Web
 - [Website](http://www.griffinbrome.com/)
